@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A66D79EC-66B9-43A6-A276-1042725E1931}"
+	ProjectSection(SolutionItems) = preProject
+		app.js = app.js
+		array-methods.js = array-methods.js
+		array.js = array.js
+		arrow-functions.js = arrow-functions.js
+		Async and Await.js = Async and Await.js
+		closures.js = closures.js
+		coersion.js = coersion.js
+		constructors.js = constructors.js
+		datatypes.js = datatypes.js
+		dates.js = dates.js
+		decisions.js = decisions.js
+		destructing.js = destructing.js
+		dom-intro.html = dom-intro.html
+		dom-intro.js = dom-intro.js
+		dom-nodes.css = dom-nodes.css
+		dom-nodes.html = dom-nodes.html
+		dom-nodes.js = dom-nodes.js
+		expressions.js = expressions.js
+		falsy-truthy.js = falsy-truthy.js
+		function-declarations.js = function-declarations.js
+		function-expressions.js = function-expressions.js
+		handling-errors.js = handling-errors.js
+		iterations.js = iterations.js
+		javascript-classes.js = javascript-classes.js
+		module-pattern.js = module-pattern.js
+		natives.js = natives.js
+		nulltype.js = nulltype.js
+		object.js = object.js
+		prototypes.js = prototypes.js
+		regex.js = regex.js
+		returning-functions.js = returning-functions.js
+		revealing-module.js = revealing-module.js
+		scope-basics.js = scope-basics.js
+		strings.js = strings.js
+		template-literals.js = template-literals.js
+		this-keyword.html = this-keyword.html
+		this-keyword.js = this-keyword.js
+		variables.js = variables.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B067B89-5C2D-4E73-BDEA-4682566E01DD}
+	EndGlobalSection
+EndGlobal
